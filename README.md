@@ -14,7 +14,7 @@ The app allows users to enter a URL, navigate through pages, and automatically b
 - Menu options to add, delete, and view keywords
 - Simple Windows Forms GUI
 
-## Technologies Used
+## Technologies/Packages Used
 
 - C# (.NET Framework)
 - Windows Forms
